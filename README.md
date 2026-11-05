@@ -3,7 +3,15 @@
 
 
 
+
+
+
+
 Noirve is a small, static creative portfolio for video, websites, logo design, and motion work.
+
+
+
+
 
 
 
@@ -13,7 +21,15 @@ Noirve is a small, static creative portfolio for video, websites, logo design, a
 
 
 
+
+
+
+
 Open `index.html` in a web browser. The site uses plain HTML, CSS, and JavaScript; it has no build step or external dependencies.
+
+
+
+
 
 
 
@@ -23,7 +39,15 @@ Open `index.html` in a web browser. The site uses plain HTML, CSS, and JavaScrip
 
 
 
-The Work section features nine MP4 videos, each with native browser controls.
+
+
+
+
+The Work section features seven MP4 videos, each with native browser controls.
+
+
+
+
 
 
 
@@ -33,7 +57,8 @@ The Work section features nine MP4 videos, each with native browser controls.
 
 
 
+
+
+
+
 This site is published from the `main` branch and `/ (root)` folder. Visit https://infantpio65-coder.github.io/noirve/ after Pages finishes deploying.
-
-
-
