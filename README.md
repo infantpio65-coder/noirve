@@ -6,9 +6,9 @@ Noirve is a small, static creative portfolio for video, websites, logo design, a
 
 Open `index.html` in a web browser. The site uses plain HTML, CSS, and JavaScript; it has no build step or external dependencies.
 
-## Portfolio spaces
+## Portfolio videos
 
-The Work section deliberately contains two empty video spaces. Add videos and any client-approved project details only when they are ready to share.
+The Work section contains four MP4 videos at the repository root and played with native browser controls.
 
 ## Publish with GitHub Pages
 
